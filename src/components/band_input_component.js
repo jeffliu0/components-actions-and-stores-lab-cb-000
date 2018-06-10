@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-class BandInputComponent extends Component {
+class BandInput extends Component {
   render(
     return(
       <div>hello</div>
