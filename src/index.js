@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { createStore } from './store'
 import bandReducer from './reducers/band_reducer'
-import BandInputComponent from './components/band_input_component'
+import BandInput from './components/band_input_component'
 
 function render(){
   const store = createStore(reducer)
